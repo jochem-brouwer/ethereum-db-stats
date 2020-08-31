@@ -1,0 +1,16 @@
+{
+  "name": "ethereum-db-stats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "level": "^6.0.1",
+    "merkle-patricia-tree": "^4.0.0",
+    "rlp": "^2.2.6"
+  }
+}
